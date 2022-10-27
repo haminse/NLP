@@ -18,7 +18,7 @@
 #### Talk to the Transformer (it will continue your sentences):
 - https://app.inferkit.com/demo
 
-####Colossal Clean Crawled Corpus (by Google)
+#### Colossal Clean Crawled Corpus (by Google)
 #### Largest corpus of text in existence (100x Wikipedia – ~27TB)
 - https://www.tensorflow.org/datasets/catalog/c4
 
